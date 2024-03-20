@@ -10,6 +10,12 @@ I'm on the lookout for internship opportunities in frontend and full-stack devel
 
 ## Let's Make Tech Dreams Come True! 💫
 While I may be new to the game, I'm determined to make a positive impact in the world of coding. With dedication and perseverance, I'm ready to tackle challenges head-on and turn my tech dreams into reality.
+## Skills 🚀
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, VS Code
 
 ## Let's Connect and Learn Together! 🚀
 If you're interested in collaborating or mentoring a newbie developer like me, I'd love to connect! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pradeep-bisht-ab44352b8/) or [Twitter](https://twitter.com/_pradeep48). Together, we can embark on an exciting journey of learning and growth in the world of coding!
